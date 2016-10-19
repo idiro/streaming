@@ -38,6 +38,7 @@ json=true
 3. Untar ```tar -xzvf streaming-0.0.1.tar.gz```
 4. Modify example.properties
 5. Modify flume-hdfs-copy.conf
+6. Change environment settings in kickoff_streaming.sh 
 6. Run ```kickoff_streaming.sh```
 
 ## Notes
